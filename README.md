@@ -4,7 +4,7 @@
 1 семестр
 ---
 * [Лабораторные по LaTeX](https://github.com/StanleyStanMarsh/labs-tex-1st-term)
-* [Курсовая работа по программированию](https://github.com/StanleyStanMarsh/course-1st-term)
+* [Курсовая работа по программированию](https://github.com/StanleyStanMarsh/course-1st-term) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 2 семестр
 ---
