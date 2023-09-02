@@ -1,2 +1,6 @@
-# education
-Files and links for education
+# Учеба
+---
+[Учебники](https://github.com/StanleyStanMarsh/textbooks)
+---
+1 семестр
+---
