@@ -8,8 +8,8 @@
 
 2 семестр
 ---
-* [Лабораторные по ООП](https://github.com/StanleyStanMarsh/Labs-2nd-term)
-* [КР по теме "Функция нескольких переменных"](https://github.com/StanleyStanMarsh/math-FSV)
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [Лабораторные по ООП](https://github.com/StanleyStanMarsh/Labs-2nd-term)
+* ![Matlab](https://www.svgrepo.com/show/373830/matlab.svg) [КР по теме "Функция нескольких переменных"](https://github.com/StanleyStanMarsh/math-FSV)
 * [Доклады по Введению в проф. деятельность](https://github.com/StanleyStanMarsh/IPA)
-* [Курсовая работа по ООП "Игрок в UNO"](https://github.com/StanleyStanMarsh/UNO-course-2nd-term)
-* [__Работа по практике "Судоку" (Qt)__](https://github.com/StanleyStanMarsh/SudokuGame)
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [Курсовая работа по ООП "Игрок в UNO"](https://github.com/StanleyStanMarsh/UNO-course-2nd-term)
+* ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) [__Работа по практике "Судоку" (Qt)__](https://github.com/StanleyStanMarsh/SudokuGame)
