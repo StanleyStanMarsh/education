@@ -11,4 +11,4 @@
 * [КР по теме "Функция нескольких переменных"](https://github.com/StanleyStanMarsh/math-FSV)
 * [Доклады по Введению в проф. деятельность](https://github.com/StanleyStanMarsh/IPA)
 * [Курсовая работа по ООП "Игрок в UNO"](https://github.com/StanleyStanMarsh/UNO-course-2nd-term)
-* [<u>Работа по практике "Судоку" (Qt)</u>](https://github.com/StanleyStanMarsh/SudokuGame)
+* [___Работа по практике "Судоку" (Qt)___](https://github.com/StanleyStanMarsh/SudokuGame)
