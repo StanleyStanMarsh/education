@@ -5,6 +5,7 @@
 ---
 * [Лабораторные по LaTeX](https://github.com/StanleyStanMarsh/labs-tex-1st-term)
 * [Курсовая работа по программированию](https://github.com/StanleyStanMarsh/course-1st-term)
+
 2 семестр
 ---
 * [Лабораторные по ООП](https://github.com/StanleyStanMarsh/Labs-2nd-term)
